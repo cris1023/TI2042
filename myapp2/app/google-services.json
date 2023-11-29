@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "762811600379",
+    "firebase_url": "https://app-base-de-datos-89c59-default-rtdb.firebaseio.com",
+    "project_id": "app-base-de-datos-89c59",
+    "storage_bucket": "app-base-de-datos-89c59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762811600379:android:bd4d111a711554a2cd4f5e",
+        "android_client_info": {
+          "package_name": "cl.inacap.appmobile.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU4J81Lo042qp5YQrdMAA9MjJHvJpm720"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">myapp</string>
+    <string name="buscar" />
+    <string name="id_figura" />
+    <string name="nombre_figura" />
+    <string name="nombre_animacion" />
+</resources>
